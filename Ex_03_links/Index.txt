@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Links</title>
+	</head>
+	<body>
+		<p>Esse link mostra o link em outra guia</p>
+		<a href="https://static.wikia.nocookie.net/zelda/images/9/9d/Link_Artwork_1_%28Twilight_Princess%29.png/revision/latest?cb=20101014225139&path-prefix=pt" target="_blank">LINK</a>
+		
+		<p>Esse link abre na mesma aba</p>
+		<a href="https://static.wikia.nocookie.net/zelda/images/9/9d/Link_Artwork_1_%28Twilight_Princess%29.png/revision/latest?cb=20101014225139&path-prefix=pt" target="_self">LINK</a>
+
+		<p>link para envio de email</p>
+		<p><a href="mailto:gustavorsenai@gmail.com">
+		enviar email</a><p>
+
+		<p>Inserir imagem usando link</p>
+		<a href="https://www.youtube.com/watch?v=IMOfv1Hmry0"><img src="https://th.bing.com/th/id/R.25e1facf256d774b768a747007bcbfb0?rik=BJTleG8oIxoKMQ&riu=http%3a%2f%2fwallsdesk.com%2fwp-content%2fuploads%2f2016%2f06%2fyoutube-brand.png&ehk=scVyDEb9xYcohWpQ9maOtTNUJqRw4scGmjh5DmRNkmA%3d&risl=&pid=ImgRaw&r=0"></img></a>
+
+
+
+	</body>
+</html>
