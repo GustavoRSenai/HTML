@@ -1,9 +1,0 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<title>Página web do Gutin</title>
-	</head>
-	<body>
-		<p>"A emoção mais antiga e mais forte da humanidade é o medo, e o mais antigo e mais forte de todos os medos é o medo do desconhecido"</p>
-	</body>
-</html>
