@@ -7,11 +7,11 @@
 		<h1>Shrek para sempre</h1>
 
 		<a  href="https://www.adorocinema.com/filmes/filme-57212/" target="_blank"><img 	src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKMRKcS9_sZTHvmZJzchj_6-WMvDHFrosBdA&s" 	height="400"></img>	</a>
-		<p><a href="https://dublagem.fandom.com/wiki/Shrek_para_Sempre" target="_blank"> Fonte:Fandom.com</a></p>
+		<p>Fonte:<a href="https://dublagem.fandom.com/wiki/Shrek_para_Sempre" target="_blank">Fandom.com</a></p>
 		<h2>Lançamento: 9 de Julho de 2010</h2>
 		<h2>Dirigido por: Michael Mitchell</h2>
 		<h2>Duração: 1h 33min</h2>
-		<h2>Classificação: Livre <img 		src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/DJCTQ_-_L.svg/2048px-DJCTQ_-_L.svg.png" height="20"></img></h2>
+		<h2>Classificação: <img 		src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/DJCTQ_-_L.svg/2048px-DJCTQ_-_L.svg.png" height="20"></img> Livre</h2>
 		<h2>Gênero: Animação, Comédia, Família, Fantasia</h2>
 		<h2>País de Origem: Estados Unidos da América</h2>
 		<h3>Sinopse:</h3>
