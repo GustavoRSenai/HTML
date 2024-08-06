@@ -10,9 +10,9 @@ Repositório focado em meus projetos na linguagem HTML
 
 Arquivos existentes em HTML:
 
-1. Links para sites HTML
-2. Imagens locais e da web
-3. Minha Primeira pagina Web
-4. Estrutura basica para sites HTML
-5. Estrutura de paragrafo e títulos HTML
+1. Estrutura basica para sites HTML
+2. Estrutura de paragrafo e títulos HTML
+3. Links para sites HTML
+4. Imagens locais e da web
+5. Minha primeira página web
    
