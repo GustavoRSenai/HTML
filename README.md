@@ -13,6 +13,6 @@ Arquivos existentes em HTML:
 1. Estrutura basica para sites HTML
 2. Estrutura de paragrafo e títulos HTML
 3. Links para sites HTML
-4. Imagens locais e da web
-5. Minha primeira página web
+4. Imagens locais e da web HTML
+5. Minha primeira página web HTML
    
