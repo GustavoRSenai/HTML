@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang = "pt-br">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>JARDIM DAS FLORES - Jotapê - LETRAS.COM</title>
+</head>
+<body>
+	<img src="img/Topo.png" alt="topo da página" width="1272">
+	<p style="color:gray; font-size:13px; margin-left:165px">Página Inical > Trap > Jotapê > 	Jardim das Flores</p>
+	<img src="img/Anuncio.png" alt="Banner anuncio" width="1272">
+	<p style="color:red; font-size:27px; margin-left:165px"><b><img src="img/Avatar.png" alt="Avatar do cantor" align="Left" width="65">Jardim das 	Flores<br><a style="color:green; font-size:20px;">Jotapê</b></a></p>
+	<a href="https://youtu.be/Ol_t-hgXrv0?si=AP63xT_JFU8ndD7c" target="_blank" ><img src="img/Video.png" alt="video da musica" align="right" 	width="450"></a>
+	<p style=" font-size:22px; margin-left:230px">Cê não acreditaria no amor se conhecesse os<br> bastidores <br>
+	Veja o Plankton se apaixonando por<br> computadores <br>
+	Não aprendi a amar, mas aprendi a falar de<br> amor <br>
+	E quando aprendi a rimar, nego, eu me tornei<br> um dos melhores <br>
+	Eu cansei da insegurança, eu vou ser forte<br> hoje <br>
+	Por que que esse segurança tá seguindo o<br> bonde? <br>
+	Depende da sua posição na tabela de cores <br>
+	Nego, eu vim do Balde de Lixo e vou para o<br> Jardim das Flores <br>
+	</p>
+	<p style=" font-size:22px; margin-left:230px">Como eu queria ser criança só por uma noite <br>
+	Voltar dez anos e viajar lá pra 2012 <br>
+	Dar um abraço forte em quem não tá comigo<br> hoje <br>
+	Ver o coringão ganhando invicto a<br> libertadores <br>
+	Tudo de novo, eu só queria ter tudo de novo <br>
+	Antes do Jotapê ser visto como é visto hoje <br>
+	Quando o sonho do futebol não caminhou pra<br> frente <br>
+	Olhar pra mim e dizer: Você é um moleque de<br> ouro <br>
+	</p>
+	<p style=" font-size:22px; margin-left:230px">Quantos, quantos tão contigo hoje? <br>
+	Quantos são do início? <br>
+	Quantos, quantos com um tostão dentro do<br> bolso? <br>
+	Como foi difícil <br>
+	Hoje é lista VIP pra mim e pra minha equipe<br> (yeah) <br>
+	No memo lugar que o bonde não era bem-<br>vindo <br>
+	</p>
+	<p style=" font-size:22px; margin-left:230px">
+	Quantos, quantos tão contigo hoje? <br>
+	Quantos são do início? <br>
+	Quantos com um tostão dentro do bolso? <br>
+	Como foi difícil <br>
+	Quem que é esses filha da puta no meu<br> camarim? <br>
+	Eu não faço média mesmo, eu fui criado<br> assim <br>
+	</p>
+	<p style=" font-size:22px; margin-left:230px">
+	E quem não gostou, se morde <br>
+	Marquinho que fez a ponte <br>
+	Até no lixão nasce flores <br>
+	(E eu) acredito na nascente <br>
+	Se o rio não segue a corrente <br>
+	É preciso voltar na fonte <br>
+	Puxa os primeiros momentos <br>
+	Aqueles que o passar do tempo <br>
+	Fez sumir da nossa mente <br>
+	E lembre, você ainda é o memo nego <br>
+	Eles só te olham diferente <br>
+	</p>
+	<p style=" font-size:22px; margin-left:230px">
+	Cê não acreditaria no amor se conhecesse os<br> bastidores <br>
+	Veja o Plankton se apaixonando por<br> computadores <br>
+	Não aprendi a amar, mas aprendi a falar de<br> amor <br>
+	E quando aprendi a rimar, nego, eu me tornei<br> um dos melhores <br>
+	Eu cansei da insegurança, eu vou ser forte<br> hoje <br>
+	Por que que esse segurança tá seguindo o<br> bonde? <br>
+	Depende da sua posição na tabela de cores <br>
+	Nego, eu vim do Balde de Lixo e vou para o<br> Jardim das Flores <br>
+	</p>
+	<p style=" font-size:22px; margin-left:230px">
+	Wow, Jotapê de novo <br>
+	Mudando de vida, quem que imaginou? <br>
+	Minha conta bancária não é a conta do<br> Michael <br>
+	Mas juro que ela tá mudando de cor <br>
+	Vai perguntar pra minha véia se eu seria rico,<br> ela vai te dizer que sempre soube <br>
+	Esse mano melhorando na estética,<br> todos sabem bem que é o Jota que ele ouve <br>
+	Jotapê, de novo, novo rei do flow <br> 
+	Eu sou o fã que apelidou o Raffa de GOAT <br>
+	Em Guarulhos eu ouvi um: Para, irmão <br>
+	Em Guarulhos mesmo, meu primeiro show <br>
+	Lá no Calçadão, Deus me disse que eu seria<br> campeão <br>
+	Eu vim de baixo e acreditei no corre <br>
+	E hoje vim pro Rio de Janeiro pela primeira<br> vez de avião <br>
+ 	</p>
+	<p style=" font-size:22px; margin-left:230px">
+	Wow, Patek Philippe brilha <br>
+	Tá brilhando muito o Patek Philippe <br>
+	Meu parça tá sempre com puta e com ouro <br>
+	Todo dia, aqui é dia de clipe <br>
+	Todo dia, eu posso ser mais que ontem <br>
+	Todo dia, eu agradeço a Cristo <br>
+	Acordar é uma oportunidade que nem todos<br> tem, sempre lembre-se disso <br>
+	</p>
+	<p style=" font-size:22px; margin-left:230px">
+	Wow, wow, wow, aulas e aulas de drop <br>
+	Aulas e aulas de drip (drip) <br>
+	Barras e barras de um mano que vai ficar rico <br>
+	Vai ser no ano seguinte <br>
+	Mas eu quero que seja nesse <br> 
+	Então, vou correr o triplo <br>
+	Então, vou correr o triplo <br>
+	O que cê chama trap me fez lembrar o Zé<br> Felipe <br>
+	</p>
+</body>
+</html>
