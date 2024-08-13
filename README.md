@@ -19,6 +19,8 @@ Arquivos existentes em HTML:
 7. Exemplo tabelas HTML
 8. Lista Ordenada HTML
 9. Listas Não Ordenadas HTML
-10. Clone do site letras.com para aprendizado HTML
-11. Minha primeira página web HTML
+10. Exercício utilização de imagens e links HTML
+11. exercício criação de listas em site de receita HTML
+12. Clone do site letras.com para aprendizado HTML
+13. Minha primeira página web HTML
    
