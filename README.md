@@ -20,8 +20,9 @@ Arquivos existentes em HTML:
 8. Lista Ordenada HTML
 9. Listas Não Ordenadas HTML
 10. Clone google formulario HTML
-11. Exercício utilização de imagens e links HTML
-12. exercício criação de listas em site de receita HTML
-13. Clone do site letras.com para aprendizado HTML
-14. Minha primeira página web HTML
+11. Formulário checkbox e radiobox HTML
+12. Exercício utilização de imagens e links HTML
+13. exercício criação de listas em site de receita HTML
+14. Clone do site letras.com para aprendizado HTML
+15. Minha primeira página web HTML
    
