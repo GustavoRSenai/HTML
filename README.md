@@ -17,6 +17,7 @@ Arquivos existentes em HTML:
 5. Página de review teste HTML
 6. Página de exemplo do SEO HTML
 7. Exemplo tabelas HTML
-8. Clone do site letras.com para aprendizado HTML
-9. Minha primeira página web HTML
+8. Lista Ordenada HTML
+9. Clone do site letras.com para aprendizado HTML
+10. Minha primeira página web HTML
    
