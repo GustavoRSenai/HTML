@@ -16,5 +16,6 @@ Arquivos existentes em HTML:
 4. Imagens locais e da web HTML
 5. Página de review teste HTML
 6. Página de exemplo do SEO
-7. Minha primeira página web HTML
+7. Clone do site letras.com para aprendizado
+8. Minha primeira página web HTML
    
