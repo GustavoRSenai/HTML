@@ -22,8 +22,9 @@ Arquivos existentes em HTML:
 10. Clone google formulario HTML
 11. Formulário checkbox e radiobox HTML
 12. Adição de Áudios e Vídeos ao HTML
-13. Exercício utilização de imagens e links HTML
-14. exercício criação de listas em site de receita HTML
-15. Clone do site letras.com para aprendizado HTML
-16. Minha primeira página web HTML
+13. Outras tags que podem ser utilizadas no HTML
+14. Exercício utilização de imagens e links HTML
+15. exercício criação de listas em site de receita HTML
+16. Clone do site letras.com para aprendizado HTML
+17. Minha primeira página web HTML
    
