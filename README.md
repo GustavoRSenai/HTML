@@ -8,6 +8,10 @@ Repositório focado em meus projetos na linguagem HTML
 
 #
 
+## O que é HTML:
+
+HTML (HyperText Markup Language) é a linguagem de marcação padrão usada para criar e estruturar páginas na web. Ela é responsável por definir a estrutura básica de um site, utilizando "tags" (etiquetas) para organizar o conteúdo, como textos, imagens, links, listas, tabelas, e muito mais.
+
 ### Arquivos existentes em HTML: ###
 
 1. Estrutura basica para sites HTML
